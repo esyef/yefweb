@@ -1,23 +1,17 @@
-### Hola, Soy Yeferson 👋
+<h1 align="center">Hola 👋, me llamo Yeferson</h1>
+<h3 align="center">Un desarrollador web, apasionado por el desarrollo front - end</h3>
 
-![Readme](https://user-images.githubusercontent.com/45208207/153976765-d85a1da4-2cd0-4f1c-995f-30863f5eec86.png)
+- 🌱 Actualmente estoy aprendiendo **Desarrollador Fullstack & Data Engineer en Codecademy**
 
-Soy Desarrollador Frontend👨‍💻, me gusta llevar diseños UI a código. Disfruto trabajar con ReactJs y CSS moderno. Estoy cursando la carrera profesional de Ingeniería  de sistemas👨‍🎓.
+- 👨‍💻 Todos mis proyectos están disponibles en [https://yefweb.me/projects](https://yefweb.me/projects)
 
-## Puedes encontrarme: <img align="left" width="140" height="150" src="https://media1.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif?cid=ecf05e472z8p45htd433a7u6jop4nx93pet3mvcssh7e2vkw&rid=giphy.gif&ct=g"></a>
-   Trabajamos juntos <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- 📫 Como te puedes contactar: **yeferson.dev@gmail.com**
 
-<!--
-**YefWeb/yefweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yefweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yefweb" height="30" width="40" /></a>
+<a href="https://discord.gg/yefweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yefweb" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
